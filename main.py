@@ -1,4 +1,4 @@
-from . import Crawl
+import Crawl
 
 
 spider = Crawl.Spider()
